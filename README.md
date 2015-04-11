@@ -1,2 +1,2 @@
 # generatorFileStructure
-Generate one files structure with the MetalSmit and Handlebars.js
+Generate one files structure with the MetalSmith and Handlebars.js
