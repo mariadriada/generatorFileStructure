@@ -4,7 +4,7 @@ module.exports = {
     jsFolder: 'js',
     cssFolder: 'css'
   },
-  contentSettings: [
+  content: [
     { template: 'intro.hbs' },
     { template: 'goals.hbs' },
     { template: 'content.hbs', size: 5 },
