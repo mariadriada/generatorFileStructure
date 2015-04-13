@@ -7,7 +7,7 @@ module.exports = {
   content: [
     { template: 'intro.hbs' },
     { template: 'goals.hbs' },
-    { template: 'content.hbs', size: 5 },
+    { template: 'content.hbs', size: 15 },
     { template: 'summary.hbs' },
     { template: 'tasks.hbs' }
   ]
